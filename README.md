@@ -1,1 +1,1 @@
-# PasswordGenerator
+A console application that generates a random password based on the specefied length
